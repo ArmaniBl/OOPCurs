@@ -1,0 +1,18 @@
+C:\Users\aarrm\OneDrive\Рабочий стол\kursVis\kursVis\x64\Debug\kursVis.vcxproj.AssemblyReference.cache
+C:\Users\aarrm\OneDrive\Рабочий стол\kursVis\kursVis\x64\Debug\kursVis.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aarrm\OneDrive\Рабочий стол\kursVis\kursVis\x64\Debug\kursVis.MyForm.resources
+C:\Users\aarrm\OneDrive\Рабочий стол\kursVis\kursVis\x64\Debug\kursVis.vcxproj.GenerateResource.cache
+C:\Users\aarrm\OneDrive\Рабочий стол\kursVis + console\kursVis\x64\Debug\kursVis.vcxproj.AssemblyReference.cache
+C:\Users\aarrm\OneDrive\Рабочий стол\kursVis + console\kursVis\x64\Debug\kursVis.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aarrm\OneDrive\Рабочий стол\kursVis + console\kursVis\x64\Debug\kursVis.MyForm.resources
+C:\Users\aarrm\OneDrive\Рабочий стол\kursVis + console\kursVis\x64\Debug\kursVis.vcxproj.GenerateResource.cache
+C:\Users\aarrm\OneDrive\Рабочий стол\kursVis + console + string\kursVis\x64\Debug\kursVis.vcxproj.AssemblyReference.cache
+C:\Users\aarrm\OneDrive\Рабочий стол\kursVis + console + string\kursVis\x64\Debug\kursVis.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aarrm\OneDrive\Рабочий стол\kursVis + console + string\kursVis\x64\Debug\kursVis.MyForm.resources
+C:\Users\aarrm\OneDrive\Рабочий стол\kursVis + console + string\kursVis\x64\Debug\kursVis.vcxproj.GenerateResource.cache
+C:\Users\aarrm\OneDrive\Рабочий стол\kursVis + console + string\kursVis\x64\Debug\kursVis.MyForm1.resources
+C:\Users\aarrm\OneDrive\Рабочий стол\Абоненты библиотеки\kursVis\x64\Debug\kursVis.vcxproj.AssemblyReference.cache
+C:\Users\aarrm\OneDrive\Рабочий стол\Абоненты библиотеки\kursVis\x64\Debug\kursVis.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aarrm\OneDrive\Рабочий стол\Абоненты библиотеки\kursVis\x64\Debug\kursVis.MyForm.resources
+C:\Users\aarrm\OneDrive\Рабочий стол\Абоненты библиотеки\kursVis\x64\Debug\kursVis.MyForm1.resources
+C:\Users\aarrm\OneDrive\Рабочий стол\Абоненты библиотеки\kursVis\x64\Debug\kursVis.vcxproj.GenerateResource.cache
